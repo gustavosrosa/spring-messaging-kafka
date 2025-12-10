@@ -3,4 +3,4 @@ Steps:
 1) Creating docker-compose.yml
 2) Needs to put kafka into etc/hosts
 
-	sudo chmod 666 /var/run/docker.sock
+3) Grant permission of docker: sudo chmod 666 /var/run/docker.sock
